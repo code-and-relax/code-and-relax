@@ -24,9 +24,9 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
   - [yt.code.and.chill@gmail.com](mailto:yt.code.and.chill@gmail.com)
 - ⚡ Dato curioso: Me encanta experimentar...🫣.
 
-<hr>
+---
 
-<h3>🧑‍💻 <strong>Habilidades Técnicas</strong></h3>
+## 🧑‍💻 Habilidades Técnicas
 ### Lenguajes de Programación
 - JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/>
 - Flutter (Dart) <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/>
@@ -43,9 +43,9 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
 - VSCode <img src="https://code.visualstudio.com/favicon.ico" width="20"/>
 - Github Desktop <img src="https://desktop.github.com/images/desktop-icon.svg" width="20"/>
 
-<hr>
+---
 
-<h3>📈 <strong>Estadísticas de GitHub</strong></h3>
+## 📈 Estadísticas de GitHub
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=code-and-relax&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5">
 </div>
@@ -56,29 +56,29 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
  <img src="http://github-readme-streak-stats.herokuapp.com?user=code-and-relax&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
-<hr>
+---
 
-<h3>🔗 <strong>Enlaces</strong></h3>
+## 🔗 Enlaces
 - [LinkedIn](https://www.linkedin.com/in/yassine-ikken-ikkene)
 
-<hr>
+---
 
-<h3>🌟 <strong>Proyectos Destacados</strong></h3>
+## 🌟 Proyectos Destacados
 - **[Rata Romance](https://github.com/code-and-relax/rata_romance)**: Proyecto de desarrollo de una aplicación de citas.
 - **[Lucas-Web](https://github.com/code-and-relax/Lucas-Web)**: Proyecto de desarrollo web con tecnologías modernas.
 
-<hr>
+---
 
-<h3>🛠️ <strong>Repositorios Pinneados</strong></h3>
+## 🛠️ Repositorios Pinneados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-and-relax&repo=rata_romance&theme=radical)](https://github.com/code-and-relax/rata_romance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-and-relax&repo=Lucas-Web&theme=radical)](https://github.com/code-and-relax/Lucas-Web)
 
-<hr>
+---
 
-<h3>🤝 <strong>Contribuciones</strong></h3>
+## 🤝 Contribuciones
 Me encanta colaborar con otros desarrolladores como [YarosMallorca](https://github.com/YarosMallorca) y contribuir a proyectos de código abierto.
 
-<hr>
+---
 
-<h3>📫 <strong>Contáctame</strong></h3>
+## 📫 Contáctame
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en ponerte en contacto conmigo a través de [yassineikkenikkene@gmail.com](mailto:yassineikkenikkene@gmail.com) o [yt.code.and.chill@gmail.com](mailto:yt.code.and.chill@gmail.com), o en cualquiera de mis redes sociales.
