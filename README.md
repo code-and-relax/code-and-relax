@@ -47,9 +47,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
 
 ## 📈 Estadísticas de GitHub
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=code-and-relax&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5">
-</div>
-<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-and-relax&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
 <div>
@@ -64,7 +61,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
 ---
 
 ## 🌟 Proyectos Destacados
-- **[Rata Romance](https://github.com/code-and-relax/rata_romance)**: Proyecto de desarrollo de una aplicación de citas.
 - **[Lucas-Web](https://github.com/code-and-relax/Lucas-Web)**: Proyecto de desarrollo web con tecnologías modernas.
 
 ---
