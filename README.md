@@ -66,7 +66,6 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, d
 ---
 
 ## 🛠️ Repositorios Pinneados
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-and-relax&repo=rata_romance&theme=radical)](https://github.com/code-and-relax/rata_romance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-and-relax&repo=Lucas-Web&theme=radical)](https://github.com/code-and-relax/Lucas-Web)
 
 ---
