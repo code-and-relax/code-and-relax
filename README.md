@@ -1,79 +1,108 @@
-# 👋 ¡Hola, soy Yassine!
+<div align="center">
+ 
+  <h1 style="border-bottom: none;">Yassine Ikken</h1>
+  <p>Software Developer | Content Creator</p>
+  
+  <br />
 
-## 🧑‍💻 Sobre Mí
-Soy un apasionado desarrollador de software con experiencia en desarrollo web, desarrollo de aplicaciones móviles y de escritorio. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras.
+  <table>
+    <tr>
+        <td align="center" width="120">
+            <a href="https://www.linkedin.com/in/yassine-ikken-code">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+            </a>
+        </td>
+        <td align="center" width="120">
+            <a href="https://www.tiktok.com/@code.and.chill">
+                <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+            </a>
+        </td>
+        <td align="center" width="120">
+            <a href="https://www.instagram.com/code.and_chill">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+            </a>
+        </td>
+        <td align="center" width="120">
+            <a href="https://www.youtube.com/@code.and.relax">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+            </a>
+        </td>
+    </tr>
+  </table>
 
-- 🌱 Actualmente estoy aprendiendo Flutter (Dart) <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/>
-- 🔭 Actualmente estoy trabajando en [Rata Romance](https://github.com/code-and-relax/rata_romance) <img src="https://img.icons8.com/color/48/000000/github.png" width="20"/>
-- 👯 Estoy buscando colaborar en:
-  - **Proyectos JavaScript**: Aplicaciones web interactivas, herramientas frontend, bibliotecas y frameworks.
-  - **Proyectos Flutter (Dart)**: Aplicaciones móviles multiplataforma, widgets personalizados, herramientas de desarrollo Flutter.
-  - **Proyectos NodeJS**: Aplicaciones backend, APIs RESTful, servicios en tiempo real, aplicaciones de servidor.
-  - **Proyectos NextJS**: Aplicaciones web con renderizado del lado del servidor, sitios estáticos, aplicaciones progresivas.
-  - **Proyectos HTML5 y CSS3**: Diseño y maquetación de interfaces web, animaciones, aplicaciones web responsivas.
-- 💬 Pregúntame sobre:
-  - JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/>
-  - Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/>
-  - NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="20"/>
-  - NextJS <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20"/>
-  - HTML5 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/>
-  - CSS3 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/>
-  - Dart <img src="https://img.icons8.com/color/48/000000/dart.png" width="20"/>
-- 📫 Cómo contactarme:
-  - [yassineikkenikkene@gmail.com](mailto:yassineikkenikkene@gmail.com)
-  - [yt.code.and.chill@gmail.com](mailto:yt.code.and.chill@gmail.com)
-- ⚡ Dato curioso: Me encanta experimentar...🫣.
+  <br />
 
----
+  <p align="center" style="max-width: 600px;">
+    Fusiono el desarrollo de software con la creación de contenido digital bajo la marca <b>Code & Chill</b>. 
+    Mi objetivo es simplificar conceptos técnicos y compartir un estilo de vida equilibrado en tecnología.
+  </p>
 
-## 🧑‍💻 Habilidades Técnicas
-### Lenguajes de Programación
-- JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/>
-- Flutter (Dart) <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/>
-- HTML5 <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20"/>
-- CSS3 <img src="https://img.icons8.com/color/48/000000/css3.png" width="20"/>
-- Dart <img src="https://img.icons8.com/color/48/000000/dart.png" width="20"/>
+  <p>
+    📧 <a href="mailto:yt.code.and.chill@gmail.com"><b>Colaboraciones</b></a> &nbsp;|&nbsp; 
+    ✉️ <a href="mailto:yassineikkenikkene@gmail.com"><b>Contacto Personal</b></a>
+  </p>
 
-### Frameworks y Librerías
-- Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png" width="20"/>
-- NodeJS <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="20"/>
-- NextJS <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20"/>
-
-### Herramientas y Plataformas
-- VSCode <img src="https://code.visualstudio.com/favicon.ico" width="20"/>
-- Github Desktop <img src="https://desktop.github.com/images/desktop-icon.svg" width="20"/>
-
----
-
-## 📈 Estadísticas de GitHub
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-and-relax&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
-</div>
-<div>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=code-and-relax&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
----
+<br />
+<hr />
+<br />
 
-## 🔗 Enlaces
-- [LinkedIn](https://www.linkedin.com/in/yassine-ikken-ikkene)
+<h3>🛠 Tech Stack & Herramientas</h3>
 
----
+<table style="border: none;">
+  <tr>
+    <td valign="top" style="border: none;">
+      <b>Core</b>
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: none;">
+      <b>Frontend</b>
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: none;">
+      <b>Backend</b>
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: none;">
+      <b>Tools</b>
+    </td>
+    <td style="border: none;">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-## 🌟 Proyectos Destacados
-- **[Lucas-Web](https://github.com/code-and-relax/Lucas-Web)**: Proyecto de desarrollo web con tecnologías modernas.
+<br />
+<hr />
+<br />
 
----
+<h3>📊 GitHub Analytics</h3>
 
-## 🛠️ Repositorios Pinneados
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=code-and-relax&repo=Lucas-Web&theme=radical)](https://github.com/code-and-relax/Lucas-Web)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-and-relax&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f&icon_color=white&count_private=true" alt="Yassine's GitHub Stats" />
+</div>
 
----
-
-## 🤝 Contribuciones
-Me encanta colaborar con otros desarrolladores como [YarosMallorca](https://github.com/YarosMallorca) y contribuir a proyectos de código abierto.
-
----
-
-## 📫 Contáctame
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en ponerte en contacto conmigo a través de [yassineikkenikkene@gmail.com](mailto:yassineikkenikkene@gmail.com) o [yt.code.and.chill@gmail.com](mailto:yt.code.and.chill@gmail.com), o en cualquiera de mis redes sociales.
+<br />
+<div align="center">
+  <a href="https://github.com/code-and-relax">
+    <img src="https://img.shields.io/badge/Code_&_Chill-Visit_Repo-black?style=flat-square" alt="Code and Chill">
+  </a>
+</div>
