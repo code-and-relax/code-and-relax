@@ -4,10 +4,10 @@
 
 <br />
 
-# Yassine Ikken
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Yassine+Ikken;Fullstack+%26+Mobile+Developer)](https://git.io/typing-svg)
 
-**Desarrollador fullstack especializado en aplicaciones móviles multiplataforma y desarrollo web.**<br />
-**Apasionado por la integración de IA en productos reales. Contenido tech bajo la marca Code & Chill.**
+Desarrollador fullstack especializado en aplicaciones móviles multiplataforma y desarrollo web.<br />
+Apasionado por la integración de IA en productos reales. Contenido tech bajo la marca **Code & Chill**.
 
 <br />
 
@@ -26,7 +26,67 @@
 
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60" height="1" />
 
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=code-and-relax&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+<br />
+
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
+
+<br />
+
+### Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Tikky**<br />
+<sub>App de finanzas personales con escaneo de recibos por IA. Registro y categorización inteligente de ingresos y gastos, visualización financiera y gestión de presupuestos. Modelo freemium con suscripción.</sub><br /><br />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![AI](https://img.shields.io/badge/AI-6C5CE7?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**DocuMind AI**<br />
+<sub>Aplicación de análisis de documentos con tecnología RAG. Consultas inteligentes sobre documentos del usuario mediante procesamiento de lenguaje natural y recuperación contextual.</sub><br /><br />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**PDF Sage**<br />
+<sub>Herramienta enterprise de análisis de documentos PDF potenciada por IA. Múltiples niveles de suscripción, seguridad reforzada y extracción inteligente de datos.</sub><br /><br />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![AI](https://img.shields.io/badge/AI-6C5CE7?style=flat-square&logoColor=white)
+![Security](https://img.shields.io/badge/Security-2D3436?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**AulaSegura Llevant**<br />
+<sub>Aplicación de kiosco para Linux con captura de teclado mediante X11 grabs e integración nativa C++. Seguridad a nivel de sistema operativo para entornos educativos controlados.</sub><br /><br />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
 
 <br />
 
@@ -122,7 +182,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60" height="1" />
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
 
 <br /><br />
 
@@ -136,6 +196,18 @@
 
 <br />
 
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-and-relax/code-and-relax/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-and-relax/code-and-relax/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/code-and-relax/code-and-relax/output/github-snake.svg" />
+</picture>
+
+<br /><br />
+
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60" height="1" />
 
 <br /><br />
@@ -143,5 +215,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/ytcodeandcq)
 
 <br />
+
+![](https://komarev.com/ghpvc/?username=code-and-relax&style=flat-square&color=6C5CE7&label=Profile+views)
 
 </div>
