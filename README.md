@@ -2,14 +2,10 @@
 
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="3" />
 
-<br />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Yassine+Ikken;Fullstack+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 Desarrollador fullstack especializado en aplicaciones móviles multiplataforma y desarrollo web.<br />
 Apasionado por la integración de IA en productos reales. Contenido tech bajo la marca **Code & Chill**.
-
-<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-ikken-code)
 [![X](https://img.shields.io/badge/X-000?style=flat-square&logo=X&logoColor=white)](https://x.com/nekkivibes)
@@ -22,21 +18,13 @@ Apasionado por la integración de IA en productos reales. Contenido tech bajo la
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@YassineIkkenIkkene)
 [![Email](https://img.shields.io/badge/Email-6C5CE7?style=flat-square&logo=gmail&logoColor=white)](mailto:yt.code.and.chill@gmail.com)
 
-<br />
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60%" height="1" />
 
-<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60" height="1" />
-
-<br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=code-and-relax&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=6C5CE7)
 
 </div>
 
-<br />
-
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
-
-<br />
 
 ### Projects
 
@@ -84,11 +72,7 @@ Apasionado por la integración de IA en productos reales. Contenido tech bajo la
 </tr>
 </table>
 
-<br />
-
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
-
-<br />
 
 ### Stack
 
@@ -178,27 +162,17 @@ Apasionado por la integración de IA en productos reales. Contenido tech bajo la
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 
-<br />
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
 
-<br /><br />
-
 ### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=code-and-relax&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=code-and-relax&theme=ambient_gradient&hide_border=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-and-relax&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
-
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="1" />
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-and-relax/code-and-relax/output/github-snake-dark.svg" />
@@ -206,15 +180,9 @@ Apasionado por la integración de IA en productos reales. Contenido tech bajo la
   <img alt="contribution snake" src="https://raw.githubusercontent.com/code-and-relax/code-and-relax/output/github-snake.svg" />
 </picture>
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60" height="1" />
-
-<br /><br />
+<img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="60%" height="1" />
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/ytcodeandcq)
-
-<br />
 
 ![](https://komarev.com/ghpvc/?username=code-and-relax&style=flat-square&color=6C5CE7&label=Profile+views)
 
