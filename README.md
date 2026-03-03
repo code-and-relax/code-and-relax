@@ -30,7 +30,7 @@
 
 <br />
 
-### ⚡ Stack
+### Stack
 
 **Languages**
 
@@ -126,7 +126,7 @@
 
 <br /><br />
 
-### 📊 Stats
+### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=code-and-relax&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)
 
