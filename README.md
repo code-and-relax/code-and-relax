@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/‎-6C5CE7?style=flat&logoColor=white" width="100%" height="3" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Yassine+Ikken;Fullstack+%26+Mobile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Yassine+Ikken;Fullstack+|+Web+%26+Mobile+Developer)](https://git.io/typing-svg)
 
 Desarrollador fullstack especializado en aplicaciones móviles multiplataforma y desarrollo web.<br />
 Apasionado por la integración de IA en productos reales. Contenido tech bajo la marca **Code & Chill**.
